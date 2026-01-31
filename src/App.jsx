@@ -17,8 +17,8 @@ const PROVIDERS = {
   google: {
     name: 'Google AI',
     placeholder: 'AIza...',
-    endpoint: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent',
-    model: 'gemini-1.5-flash'
+    endpoint: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent',
+    model: 'gemini-2.5-flash'
   }
 }
 
